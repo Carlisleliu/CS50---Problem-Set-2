@@ -1,5 +1,4 @@
-# CS50---pset2
-
+# CS50---Problem Set 2
 
 1. Implement
       - Initials Less Comfortable
