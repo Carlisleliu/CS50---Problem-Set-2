@@ -1,5 +1,10 @@
 # CS50---pset2
 
-1. Implement Caesar’s cipher.
-2. Implement Vigenère’s cipher.
-3. Crack passwords.
+
+1. Implement
+      - Initials Less Comfortable
+      - Initials More Comfortable
+2. Implement
+      - Caesar's cipher
+      - Vigenère’s cipher
+      - Crack passwords
